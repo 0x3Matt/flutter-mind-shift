@@ -88,22 +88,22 @@ const Index = () => {
             style={{ animationDelay: '2.5s' }}
           >
             <a 
-              href="#" 
+              href="https://x.com/0x3Matt" 
               className="text-white/70 hover:text-white hover:scale-110 transition-all duration-300 ease-out hover:drop-shadow-lg"
             >
               <Twitter size={18} className="md:w-5 md:h-5" />
             </a>
             <a 
-              href="#" 
+              href="https://github.com/0x3Matt/" 
               className="text-white/70 hover:text-white hover:scale-110 transition-all duration-300 ease-out hover:drop-shadow-lg"
             >
-              <Instagram size={18} className="md:w-5 md:h-5" />
+              <Github size={18} className="md:w-5 md:h-5" />
             </a>
             <a 
-              href="#" 
+              href="arttentionmedia.pro" 
               className="text-white/70 hover:text-white hover:scale-110 transition-all duration-300 ease-out hover:drop-shadow-lg"
             >
-              <Dribbble size={18} className="md:w-5 md:h-5" />
+              <Web size={18} className="md:w-5 md:h-5" />
             </a>
           </div>
         </div>
