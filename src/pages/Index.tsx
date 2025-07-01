@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import { Twitter, Instagram, Dribbble } from 'lucide-react';
+import { Twitter, Github, Globe } from 'lucide-react';
 
 const Index = () => {
   const [showContent, setShowContent] = useState(false);
@@ -100,10 +100,10 @@ const Index = () => {
               <Github size={18} className="md:w-5 md:h-5" />
             </a>
             <a 
-              href="arttentionmedia.pro" 
+              href="https://arttentionmedia.pro/" 
               className="text-white/70 hover:text-white hover:scale-110 transition-all duration-300 ease-out hover:drop-shadow-lg"
             >
-              <Dribbble size={18} className="md:w-5 md:h-5" />
+              <Globe size={18} className="md:w-5 md:h-5" />
             </a>
           </div>
         </div>
