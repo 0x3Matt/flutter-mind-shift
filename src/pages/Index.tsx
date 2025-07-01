@@ -28,11 +28,11 @@ const Index = () => {
       </video>
 
       {/* Full-page Glass Overlay */}
-      <div className="absolute inset-0 backdrop-blur-sm bg-black/10"></div>
+      <div className="absolute inset-0 backdrop-blur-sm bg-black/5"></div>
 
       {/* Logo - Top Left */}
       <div className="absolute top-6 left-6 md:top-8 md:left-8 z-10">
-        <div className="text-white/70 font-medium text-sm tracking-wider">
+        <div className="text-white/70 font-medium text-lg md:text-xl tracking-wider">
           BUTTERFLY EFFECT
         </div>
       </div>
@@ -122,12 +122,11 @@ const Index = () => {
         <button 
           className={`
             bg-gradient-to-r from-purple-400/20 to-pink-400/20 backdrop-blur-sm
-            border border-white/20 text-white px-8 py-4 rounded-xl
-            font-medium text-lg shadow-2xl
+            border border-white/20 text-white px-10 py-5 rounded-2xl
+            font-medium text-xl shadow-2xl
             hover:scale-105 hover:bg-gradient-to-r hover:from-purple-400/30 hover:to-pink-400/30
             hover:border-white/30 hover:shadow-purple-500/25
             transition-all duration-500 ease-out
-            animate-float
             ${showContent ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}
           `}
           style={{ animationDelay: '3.5s' }}
