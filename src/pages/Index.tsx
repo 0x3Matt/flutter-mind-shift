@@ -103,7 +103,7 @@ const Index = () => {
               href="arttentionmedia.pro" 
               className="text-white/70 hover:text-white hover:scale-110 transition-all duration-300 ease-out hover:drop-shadow-lg"
             >
-              <Web size={18} className="md:w-5 md:h-5" />
+              <Dribble size={18} className="md:w-5 md:h-5" />
             </a>
           </div>
         </div>
