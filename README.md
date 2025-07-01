@@ -1,4 +1,25 @@
-# Welcome to your Lovable project
+
+# Butterfly Effect - Mindful Design Playground
+
+## About the Butterfly Effect
+
+The butterfly effect is a concept from chaos theory that suggests small changes in initial conditions can lead to large-scale and unpredictable consequences. In meteorology, it's often illustrated by the idea that a butterfly flapping its wings in one part of the world could theoretically cause a tornado in another part of the world.
+
+This principle extends beautifully into design and human interaction. Small moments of mindful design can create profound shifts in how people experience and interact with digital spaces. A subtle animation, a thoughtful transition, or a gentle interaction can spark deeper engagement, emotional connection, and meaningful moments.
+
+**Butterfly Effect** is a mindful design playground that explores these minimal interactions - those small design decisions that can carry users somewhere completely new and unexpected. We believe that the smallest click, hover, or gesture can create ripple effects that transform the entire user experience.
+
+## Small Moments. Big Shifts.
+
+Our philosophy centers around the idea that:
+- **Mindful design** creates more meaningful experiences
+- **Minimal interactions** can have maximum impact  
+- **Every detail matters** in creating emotional resonance
+- **Small changes** can lead to transformative user journeys
+
+Explore our playground to discover how thoughtful design decisions can create the butterfly effect in digital experiences.
+
+---
 
 ## Project info
 
